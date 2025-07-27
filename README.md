@@ -142,16 +142,6 @@ Hệ thống được phân tích và thiết kế theo mô hình UML:
 
 ---
 
-## ✅ Kết luận
-
-Hệ thống giúp:
-
-* **Tự động hóa quy trình quản lý quán cà phê.**
-* **Tiết kiệm thời gian, giảm sai sót, tăng tính chuyên nghiệp.**
-* **Có khả năng triển khai thực tế cho các quán vừa và nhỏ.**
-
----
-
 ## 🚀 Hướng dẫn cài đặt & sử dụng
 
 ### 1. Yêu cầu hệ thống
@@ -170,7 +160,7 @@ Hệ thống giúp:
 #### 🔹 2.1. Cài đặt cơ sở dữ liệu
 
 1. Mở **SQL Server Management Studio (SSMS)**.
-2. Tạo một **database mới** với tên ví dụ: `CoffeeShopDB`.
+2. Tạo một **database mới** với tên ví dụ: `QLCF`.
 3. Import file `.sql` (đi kèm trong thư mục `Database/`) để khởi tạo bảng (`Account`, `Bill`, `Food`, `TableFood`, ...).
 4. Kiểm tra dữ liệu mẫu:
 
@@ -185,8 +175,8 @@ Hệ thống giúp:
 
    ```xml
    <connectionStrings>
-       <add name="CoffeeShopConnectionString"
-            connectionString="Data Source=YOUR_SERVER_NAME;Initial Catalog=CoffeeShopDB;Integrated Security=True"/>
+       <add name="QLCF"
+            connectionString="Data Source=YOUR_SERVER_NAME;Initial Catalog=QLCF;Integrated Security=True"/>
    </connectionStrings>
    ```
 2. Thay `YOUR_SERVER_NAME` bằng tên máy chủ SQL của bạn.
@@ -215,8 +205,7 @@ Hệ thống giúp:
   * Password: `admin`
 * **Nhân viên (sample):**
 
-  * Username: `staff01`
-  * Password: `123456`
+  * Tạo tài khoản nhân viên từ trang quản trị
 
 #### 🔹 3.2. Dành cho Admin
 
