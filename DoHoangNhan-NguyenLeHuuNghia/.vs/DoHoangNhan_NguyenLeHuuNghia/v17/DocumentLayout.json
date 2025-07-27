@@ -1,0 +1,712 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\fthemsanpham.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fthemsanpham.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\fthemsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fthemsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fthemsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\bll\\timekeepingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\bll\\timekeepingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\bll\\tablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\bll\\tablebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\bll\\foodcategorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\bll\\foodcategorybll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\bll\\billbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\bll\\billbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\bll\\accountbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\tabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\tabledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\menudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\menudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\fooddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\foodcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\foodcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\billdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\billform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\billform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|c:\\users\\pc\\onedrive\\documents\\\u0111\u1ED7 ho\u00E0ng nh\u00E2n - nguy\u1EC5n l\u00EA h\u1EEFu ngh\u0129a - nmcnpm\\dohoangnhan-nguyenlehuunghia\\dohoangnhan_nguyenlehuunghia\\dal\\billinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dal\\billinfodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fthemdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fthemdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fthemban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fthemban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fcapnhatsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fcapnhatdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fcapnhatdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fcapnhatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fcapnhatban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fbanhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\settlepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\salaryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\dto\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\dohoangnhan_nguyenlehuunghia\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDEAEFB6-C7AF-47DA-8E75-585D2BD8062D}|DoHoangNhan_NguyenLeHuuNghia\\PhanMem.csproj|solutionrelative:dohoangnhan_nguyenlehuunghia\\fdoimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fThemSanPham.resx",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.resx",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.resx",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.resx",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-27T12:32:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fThemSanPham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.Designer.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:32:10.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeKeepingBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\TimeKeepingBLL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\TimeKeepingBLL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\TimeKeepingBLL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\TimeKeepingBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\TableBLL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\TableBLL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\TableBLL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\TableBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:55.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoaDonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\HoaDonBLL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\HoaDonBLL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\HoaDonBLL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\HoaDonBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:55.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FoodCategoryBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\FoodCategoryBLL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\FoodCategoryBLL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\FoodCategoryBLL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\FoodCategoryBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:54.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\BillBLL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\BillBLL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\BillBLL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\BillBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountBLL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\AccountBLL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\AccountBLL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BLL\\AccountBLL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\BLL\\AccountBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:52.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\TableDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\TableDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\TableDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\TableDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:50.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\MenuDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\MenuDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\MenuDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\MenuDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\HoaDonDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\HoaDonDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\HoaDonDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:49.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:48.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fThemSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.cs [Design]",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\fThemSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:42.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodCategoryDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodCategoryDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodCategoryDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodCategoryDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\FoodCategoryDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:47.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\DataProvider.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\DataProvider.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\DataProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:47.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BillDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:46.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\AccountDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\AccountDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\AccountDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\AccountDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:31:45.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BillInfoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillInfoDAL.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillInfoDAL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillInfoDAL.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DAL\\BillInfoDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:18:46.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "fThemDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemDanhMuc.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fThemDanhMuc.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fThemDanhMuc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fThemDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "fThemNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemNhanVien.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fThemNhanVien.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fThemNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fThemNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:42.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\ChartForm.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\ChartForm.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\ChartForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\ChartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:27.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fMain.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fMain.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:59:54.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fLogin.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fLogin.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:50:21.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "fThemBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fThemBan.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fThemBan.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fThemBan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fThemBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:40.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BillForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BillForm.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\BillForm.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\BillForm.cs [Design]",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\BillForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:25.335Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "fNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:14.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "fDoiMK.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:35.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "fDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fDanhMuc.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fDanhMuc.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fDanhMuc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:59:58.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FCapNhatSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\FCapNhatSanPham.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\FCapNhatSanPham.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\FCapNhatSanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\FCapNhatSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:59:59.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "fCapNhatDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fCapNhatDanhMuc.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fCapNhatDanhMuc.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fCapNhatDanhMuc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fCapNhatDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:31.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "fCapNhatBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fCapNhatBan.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fCapNhatBan.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fCapNhatBan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fCapNhatBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:30.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "fNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\fNhanVien.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAmwGYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:47:27.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "fSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fSanPham.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fSanPham.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fSanPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:39.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\receipt.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\receipt.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\receipt.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:18.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SalaryForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:22.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "settlePayment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\settlePayment.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\settlePayment.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\settlePayment.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\settlePayment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T11:25:21.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "fBan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fBan.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fBan.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fBan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:00:00.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "fBanHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fBanHang.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fBanHang.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fBanHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\M\u00E1y t\u00EDnh\\PBL3-coffee-management\\DoHoangNhan_NguyenLeHuuNghia\\fBanHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:00:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "fDoiMK.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\fDoiMK.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:00:19.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DTO\\Menu.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\DTO\\Menu.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\DTO\\Menu.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\DTO\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:50:17.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SalaryForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs",
+              "RelativeDocumentMoniker": "DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Documents\\\u0110\u1ED7 Ho\u00E0ng Nh\u00E2n - Nguy\u1EC5n L\u00EA H\u1EEFu Ngh\u0129a - NMCNPM\\DoHoangNhan-NguyenLeHuuNghia\\DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs",
+              "RelativeToolTip": "DoHoangNhan_NguyenLeHuuNghia\\SalaryForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:50:35.048Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
